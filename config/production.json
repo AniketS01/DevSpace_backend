@@ -1,6 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://Aniket123:Aniket123@cluster0.wivig.mongodb.net/Cluster0?retryWrites=true&w=majority",
-  "jwtSecret": "i am aniket",
-  "githubClientId":"30710f81f096c88692aa",
-  "githubSecret":"10fd5293c5f42180d57f97ad6fd41e050deb51d2"
-}
